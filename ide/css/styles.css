@@ -1,0 +1,14 @@
+html {
+    font-family: sans-serif;
+    font-size: 125%;
+  }
+  
+  @media screen and (max-width: 375px) {
+    html {
+      font-size: 62.5%;
+    }
+  }
+  
+  body {
+    max-width: 80ch;
+  }
